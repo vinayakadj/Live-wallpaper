@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Taj Wallpaper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="wallpaper_description">Taj Mahal live Wallpaper with animations.</string>
+    <string name="app_description">   Taj Mahal wallpaper is developed by DJ Software,this is currently under beta version.This is free App </string>
+    <string name="banner_ad_unit_id">ca-app-pub-3186165091370950/5302820820</string>
+</resources>
